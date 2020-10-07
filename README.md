@@ -1,10 +1,10 @@
 <h1 align="center">
-   nodejs-express-setup
+   reactjs-styledcomponents-setup
 </h1>
 
 <h4 align="center">
-Setting up a REST API with Node.js and Express.js.
-This project was create for this <a href="https://dev.to/souzamarlon/setting-up-a-rest-api-with-node-js-and-express-js-3fl2">tutorial</a> in Dev.to.
+Setting up a React app with styled-components to consume a Node API.
+This project was create for this <a href="">tutorial</a> in Dev.to.
 </h4>
 
 <p align="center">
